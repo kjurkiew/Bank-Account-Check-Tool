@@ -3,7 +3,7 @@
 import requests
 from openpyxl import load_workbook, Workbook
 
-workbooky = load_workbook(filename='elena2_list.xlsx')
+workbooky = load_workbook(filename='list_test.xlsx')
 sheet = workbooky.active
 a = 2 # first verse
 b = 10 # last verse
