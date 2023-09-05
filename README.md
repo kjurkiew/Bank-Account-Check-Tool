@@ -1,4 +1,4 @@
-# is_BNP_check
+# Bank-Account-Check-Tool
 We received a list of companies interested in receiving funding, but a requirement for obtaining the funding was to have an account with a specific bank. Therefore, I created a program that searches whether a given company has an account with the bank we are looking for.
 The program gets nip numbers from Excel, then gets their bank numbers from mf.gov.pl API and checks if any of them belongs to specific bank
 
