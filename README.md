@@ -4,6 +4,7 @@ The program gets nip numbers from Excel, then gets their bank numbers from mf.go
 
 # Prerequisites
 Python 3.x
+
 Required Python libraries:
   requests
   openpyxl
